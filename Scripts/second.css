@@ -1,0 +1,19 @@
+#PoweredBy{
+    font-weight: bold;
+    text-align: center;
+}
+
+#PoweredBy span{
+    font-weight: normal;
+    vertical-align: sub;
+    font-size: smaller;
+}
+
+#BackToMain{
+    color: black;
+    font-weight: bold;    
+}
+
+#BackToMain:hover{
+    color: red;
+}
